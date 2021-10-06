@@ -1,3 +1,9 @@
+<h3 align="left">Find me on Discord</h3>
+<p align="left">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Weetz#6715" height="30" width="40" />
+  Weetz#6715
+</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/will2022/count.svg" />
