@@ -1,7 +1,7 @@
 <h3 align="left">Find me on Discord</h3>
 <p align="left">
-  <img align="center" src="https://raw.githubusercontent.com/will2022/will2022/main/discord.svg" alt="Weetz#0001" height="30" width="40" />
-  Weetz#0001
+  <img align="center" src="https://raw.githubusercontent.com/will2022/will2022/main/discord.svg" alt="Weetz" height="30" width="40" />
+  Weetz
 </p>
 
 <p align="center"> 
